@@ -115,7 +115,7 @@ body {font-family: "Lato", sans-serif}
         
         
             <!-- Whitepaper 6 -->                        
-                  <img src="/w3images/sanfran.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
+                  <img src="/w3images/sanfran.jpg" alt="San Francisco" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>San Francisco</b></p>
             <p class="w3-opacity">Sun 29 Nov 2016</p>
