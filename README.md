@@ -40,27 +40,25 @@ body {font-family: "Lato", sans-serif}
 <div class="w3-content" style="max-width:2000px;margin-top:46px">
 
 
-  <!-- The Band Section -->
+  <!-- Welcome note -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
     <h2 class="w3-wide">WELCOME</h2>
     <p class="w3-justify">We believe in sharing knowledge as it enables the communities for a better future. Here you would be able to read whitepapers, researchpapers, articles etc.</p>
 
 
 
-
   <!-- Whitepapers -->
-  <div class="w3-pale green" id="tour">
+  <div class="w3-light-gray" id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <h2 class="w3-wide w3-center">WHITEPAPERS</h2>
       <p class="w3-opacity w3-center"><i>Read and share the link with others</i></p><br>
-
 
 
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
         
             <!-- Whitepaper 1 -->
-          <img src="https://user-images.githubusercontent.com/64637338/81293350-dbb70700-9075-11ea-9a71-cd2750c6a733.png" alt="New York" height="110" width="190" class="w3-hover-opacity">
+          <img src="https://user-images.githubusercontent.com/64637338/81293350-dbb70700-9075-11ea-9a71-cd2750c6a733.png" alt="New York" height="110" width="110" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>New York</b></p>
             <p class="w3-opacity">Fri 27 Nov 2016</p>
