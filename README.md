@@ -50,36 +50,37 @@ body {font-family: "Lato", sans-serif}
   <!-- Whitepapers -->
   <div class="w3-light-gray" id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
-      <h2 class="w3-wide w3-center">WHITEPAPERS</h2>
+      <h2 class="w3-wide w3-center">PUBLICATIONS</h2>
       <p class="w3-opacity w3-center"><i>Read and share the link with others</i></p><br>
 
 
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
         
-            <!-- Whitepaper 1 -->
-          <img src="https://user-images.githubusercontent.com/64637338/81293350-dbb70700-9075-11ea-9a71-cd2750c6a733.png" alt="New York" height="110" width="110" class="w3-hover-opacity">
+            <!-- Whitepaper 1 - ORASP -->
+          <img src="https://user-images.githubusercontent.com/64637338/81332134-3e76c580-90ab-11ea-8933-193334dc59e6.png" alt="ORASP" height="110" width="85" class="w3-hover-opacity">
           <div class="w3-container w3-white">
-            <p><b>New York</b></p>
-            <p class="w3-opacity">Fri 27 Nov 2016</p>
-            <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+            <p><b>ORASP</b></p>
+            <p class="w3-opacity">Whitepaper</p>
+            <p>Open Reference Architecture for Security & Privacy. Security should be a journey, and not an expensive one.</p>
+            <p class="w3-opacity">... coming soon</p>
             <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Read More</button>
           </div>
         </div>
         <div class="w3-third w3-margin-bottom">
         
-            <!-- Whitepaper 2 -->        
-          <img src="https://user-images.githubusercontent.com/64637338/81290124-2e8dc000-9070-11ea-9375-ae4caa80809a.jpg" alt="Paris" height="110" width="190" class="w3-hover-opacity">
+            <!-- Whitepaper 2 - Video conferencing considerations - security guidelines--> 
+          <img src="https://user-images.githubusercontent.com/64637338/81333756-b3e39580-90ad-11ea-9329-c9309c1621d8.png" alt="Video Conferencing Considerations" height="110" width="95" class="w3-hover-opacity">
           <div class="w3-container w3-white">
-            <p><b>Paris</b></p>
-            <p class="w3-opacity">Sat 28 Nov 2016</p>
-            <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
-            <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Buy Tickets</button>
+            <p><b>Video Conferencing Considerations</b></p>
+            <p class="w3-opacity">Whitepaper</p>
+            <p>With the emerging need of using video conferencing service, comes various challenges to prevent against the  Security Threats..</p>
+            <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Read More</button>
           </div>
         </div>
         <div class="w3-third w3-margin-bottom">
         
-            <!-- Whitepaper 3 -->                
+            <!-- Whitepaper 3                 
           <img src="/w3images/sanfran.jpg" alt="San Francisco" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>San Francisco</b></p>
@@ -88,9 +89,9 @@ body {font-family: "Lato", sans-serif}
             <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Buy Tickets</button>
           </div>
         </div>
-        <div class="w3-third w3-margin-bottom">            
+        <div class="w3-third w3-margin-bottom">     -->       
         
-            <!-- Whitepaper 4 -->                
+            <!-- Whitepaper 4                 
           <img src="/w3images/sanfran.jpg" alt="San Francisco" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>San Francisco</b></p>
@@ -99,10 +100,10 @@ body {font-family: "Lato", sans-serif}
             <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Buy Tickets</button>
           </div>
         </div>
-        <div class="w3-third w3-margin-bottom">  
+        <div class="w3-third w3-margin-bottom">  -->
             
             
-            <!-- Whitepaper 5 -->                            
+            <!-- Whitepaper 5                             
                       <img src="/w3images/sanfran.jpg" alt="San Francisco" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>San Francisco</b></p>
@@ -111,10 +112,10 @@ body {font-family: "Lato", sans-serif}
             <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Buy Tickets</button>
           </div>
         </div>
-        <div class="w3-third w3-margin-bottom">  
+        <div class="w3-third w3-margin-bottom">  -->
         
         
-            <!-- Whitepaper 6 -->                        
+            <!-- Whitepaper 6                         
                   <img src="/w3images/sanfran.jpg" alt="San Francisco" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>San Francisco</b></p>
@@ -123,7 +124,7 @@ body {font-family: "Lato", sans-serif}
             <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Buy Tickets</button>
           </div>
         </div>
-        <div class="w3-third w3-margin-bottom">  
+        <div class="w3-third w3-margin-bottom">  -->
         
         
             
