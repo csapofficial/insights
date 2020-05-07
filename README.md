@@ -1,3 +1,39 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pill-nav a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.pill-nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.pill-nav a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<div class="pill-nav">
+  <a class="active" href="#CSAP Insights Page">CSAP Insights Page</a>
+  <a href="https://facebook.com/csapofficial">Facebook</a>
+  <a href="https://facebook.com/csapofficial">Twitter</a>
+</div>
+
 // Follow us on Facebook and Twitter @CSAPofficial
 
 # Welcome to CSAP insights
