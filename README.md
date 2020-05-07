@@ -54,7 +54,7 @@ body {font-family: "Lato", sans-serif}
 
 
   <!-- Whitepapers -->
-  <div class="w3-grey" id="tour">
+  <div class="w3-pale green" id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <h2 class="w3-wide w3-center">WHITEPAPERS</h2>
       <p class="w3-opacity w3-center"><i>Read and share the link with others</i></p><br>
