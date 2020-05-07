@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <title>CSAP Insights</title>
 <meta charset="UTF-8">
