@@ -45,9 +45,9 @@ body {font-family: "Lato", sans-serif}
 <div class="w3-content" style="max-width:2000px;margin-top:46px">
 
 
-  <!-- Welcome note -->
+  <!-- The Band Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <h2 class="w3-wide">WELCOME TO CSAP INSIGHTS</h2>
+    <h2 class="w3-wide">WELCOME</h2>
     <p class="w3-justify">We believe in sharing knowledge as it enables the communities for a better future. Here you would be able to read whitepapers, researchpapers, articles etc.</p>
 
 
@@ -65,7 +65,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-third w3-margin-bottom">
         
             <!-- Whitepaper 1 -->
-          <img src="https://user-images.githubusercontent.com/64637338/81293350-dbb70700-9075-11ea-9a71-cd2750c6a733.png" alt="New York" height="110" width="110" class="w3-hover-opacity">
+          <img src="https://user-images.githubusercontent.com/64637338/81293350-dbb70700-9075-11ea-9a71-cd2750c6a733.png" alt="New York" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>New York</b></p>
             <p class="w3-opacity">Fri 27 Nov 2016</p>
@@ -76,7 +76,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-third w3-margin-bottom">
         
             <!-- Whitepaper 2 -->        
-          <img src="https://user-images.githubusercontent.com/64637338/81290124-2e8dc000-9070-11ea-9375-ae4caa80809a.jpg" alt="Paris" height="170" width="230" class="w3-hover-opacity">
+          <img src="https://user-images.githubusercontent.com/64637338/81290124-2e8dc000-9070-11ea-9375-ae4caa80809a.jpg" alt="Paris" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>Paris</b></p>
             <p class="w3-opacity">Sat 28 Nov 2016</p>
@@ -87,7 +87,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-third w3-margin-bottom">
         
             <!-- Whitepaper 3 -->                
-          <img src="/w3images/sanfran.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
+          <img src="/w3images/sanfran.jpg" alt="San Francisco" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>San Francisco</b></p>
             <p class="w3-opacity">Sun 29 Nov 2016</p>
@@ -97,9 +97,8 @@ body {font-family: "Lato", sans-serif}
         </div>
         <div class="w3-third w3-margin-bottom">            
         
-        
-            <!-- Whitepaper 4 -->
-          <img src="/w3images/sanfran.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
+            <!-- Whitepaper 4 -->                
+          <img src="/w3images/sanfran.jpg" alt="San Francisco" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>San Francisco</b></p>
             <p class="w3-opacity">Sun 29 Nov 2016</p>
@@ -110,8 +109,8 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-third w3-margin-bottom">  
             
             
-            <!-- Whitepaper 5 -->            
-                      <img src="/w3images/sanfran.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
+            <!-- Whitepaper 5 -->                            
+                      <img src="/w3images/sanfran.jpg" alt="San Francisco" height="110" width="190" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>San Francisco</b></p>
             <p class="w3-opacity">Sun 29 Nov 2016</p>
@@ -122,7 +121,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-third w3-margin-bottom">  
         
         
-            <!-- Whitepaper 6 -->        
+            <!-- Whitepaper 6 -->                        
                   <img src="/w3images/sanfran.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>San Francisco</b></p>
