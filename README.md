@@ -31,10 +31,9 @@ body {
 <div class="pill-nav">
   <a class="active" href="#CSAP Insights Page">CSAP Insights Page</a>
   <a href="https://facebook.com/csapofficial">Facebook</a>
-  <a href="https://facebook.com/csapofficial">Twitter</a>
+  <a href="https://twitter.com/csapofficial">Twitter</a>
 </div>
 
-// Follow us on Facebook and Twitter @CSAPofficial
 
 # Welcome to CSAP insights
 
