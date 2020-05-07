@@ -1,4 +1,7 @@
-<head>
+github:
+  is_project_page: false
+  
+  <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
