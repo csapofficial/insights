@@ -1,9 +1,13 @@
-// Add content from below the dotted lines 
+// Follow us on Facebook and Twitter @CSAPofficial
 
 # Welcome to CSAP insights
 
 More information to be added..
 
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 body {margin:0;height:2000px;}
 
@@ -67,6 +71,16 @@ body {margin:0;height:2000px;}
   <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
   <a href="#" class="youtube"><i class="fa fa-youtube"></i></a> 
 </div>
+
+<div class="content">
+  <h3>Sticky Social Bar</h3>
+  <p>The sticky social bar will stick to the screen when you scroll.</p>
+  
+</div>
+
+</body>
+</html> 
+
 
 
 ### SANS Tips
