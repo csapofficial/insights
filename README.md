@@ -132,9 +132,7 @@ body {
         </div>
         <div class="w3-third w3-margin-bottom">
         
-        
-          </div>
-        
+          
             
           </div>
              </div>
