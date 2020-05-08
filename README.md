@@ -13,14 +13,9 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 300px 300px;
-  z-index:1;
     }
-.mySlides {
-    display: none;
-    z-index:-1;
+.mySlides {display: none}
 
-  }
-  
 </style>
 
 
@@ -60,7 +55,7 @@ body {
 
 
 
-  <!-- Whitepapers -->
+  <!-- Publications -->
   <div class="w3-light-gray" id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <h2 class="w3-wide w3-center">PUBLICATIONS</h2>
@@ -97,6 +92,29 @@ body {
         
         
         
+        
+  <!-- ----------------------- Public Messages ---------------------- -->
+  
+  <div class="w3-light-gray" id="publicmessages">
+    <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
+      <h2 class="w3-wide w3-center">Public Messages</h2>
+      <p class="w3-opacity w3-center"><i>Read and share the link with others</i></p><br>
+
+
+      <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+        <div class="w3-third w3-margin-bottom">
+        
+            <!-- Public Message 1 -->
+<iframe src="https://onedrive.live.com/embed?cid=075761D41356A044&resid=75761D41356A044%2159469&authkey=ADmBqJcaXnptdOQ&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>          <img src="https://user-images.githubusercontent.com/64637338/81332134-3e76c580-90ab-11ea-8933-193334dc59e6.png" alt="ORASP" height="110" width="85" class="w3-hover-opacity">
+          <div class="w3-container w3-white" >
+            <p><b>ORASP</b></p>
+            <p class="w3-opacity">Whitepaper</p>
+            <p>Open Reference Architecture for Security & Privacy. Security should be a journey, and not an expensive one...</p>
+            <button class="w3-button w3-green w3-margin-bottom">coming soon</button>
+          </div>
+        </div>
+        <div class="w3-third w3-margin-bottom">        
+        
             
           </div>
         </div>
@@ -108,50 +126,8 @@ body {
 
 
 
-  <!-- Ticket Modal -->
-  <div id="ticketModal" class="w3-modal">
-    <div class="w3-modal-content w3-animate-top w3-card-4">
-      <header class="w3-container w3-teal w3-center w3-padding-32"> 
-        <span onclick="document.getElementById('ticketModal').style.display='none'" 
-       class="w3-button w3-teal w3-xlarge w3-display-topright">×</span>
-        <h2 class="w3-wide"><i class="fa fa-suitcase w3-margin-right"></i>Tickets</h2>
-      </header>
-      <div class="w3-container">
-        <p><label><i class="fa fa-shopping-cart"></i> Tickets, $15 per person</label></p>
-        <input class="w3-input w3-border" type="text" placeholder="How many?">
-        <p><label><i class="fa fa-user"></i> Send To</label></p>
-        <input class="w3-input w3-border" type="text" placeholder="Enter email">
-        <button class="w3-button w3-block w3-teal w3-padding-16 w3-section w3-right">PAY <i class="fa fa-check"></i></button>
-        <button class="w3-button w3-red w3-section" onclick="document.getElementById('ticketModal').style.display='none'">Close <i class="fa fa-remove"></i></button>
-        <p class="w3-right">Need <a href="#" class="w3-text-blue">help?</a></p>
-      </div>
-    </div>
-  </div>
 
-  <!-- The Contact Section 
-  <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
-    <h2 class="w3-wide w3-center">CONTACT</h2>
-    <p class="w3-opacity w3-center"><i>Get in touch with us</i></p>
-    <div class="w3-row w3-padding-32">
-      <div class="w3-col m6 w3-large w3-margin-bottom">
-        <i class="fa fa-map-marker" style="width:30px"></i> Global chapters<br>
-      </div>
-      <div class="w3-col m6">
-        <form action="/action_page.php" target="_blank">
-          <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
-            <div class="w3-half">
-              <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
-            </div>
-            <div class="w3-half">
-              <input class="w3-input w3-border" type="text" placeholder="Email" required name="Email">
-            </div>
-          </div>
-          <input class="w3-input w3-border" type="text" placeholder="Message" required name="Message">
-          <button class="w3-button w3-black w3-section w3-right" type="submit">SEND</button>
-        </form>
-      </div>
-    </div>
-  </div>-->
+
   
 <!-- End Page Content -->
 
