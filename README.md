@@ -107,7 +107,7 @@ body {
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
         
-            <!-- Whitepaper 1 - ORASP -->
+            <!-- Message 1 --------------------------------------------------------- -->
           <img src="https://user-images.githubusercontent.com/64637338/81332134-3e76c580-90ab-11ea-8933-193334dc59e6.png" alt="ORASP" height="110" width="85" class="w3-hover-opacity">
           <div class="w3-container w3-white" >
             <p><b>ORASP</b></p>
@@ -120,23 +120,14 @@ body {
         
         
         
-        
-            <!-- Whitepaper 2 - Video conferencing considerations - security guidelines--> 
-          <img src="https://user-images.githubusercontent.com/64637338/81333756-b3e39580-90ad-11ea-9329-c9309c1621d8.png" alt="Video Conferencing Considerations" height="110" width="95" class="w3-hover-opacity">
-          <div class="w3-container w3-white" >
-            <p><b>Video Conferencing</b></p>
-            <p class="w3-opacity">Whitepaper</p>
-            <p>Considerations: With the emerging need of using video conferencing service, comes various challenges with...</p>
-            <button class="w3-button w3-green w3-margin-bottom">coming soon</button>
-          </div>
-        </div>
-        <div class="w3-third w3-margin-bottom">
+ 
         
           
             
           </div>
              </div>
                 </div>
+                   </div>
                    </div>
                       
 
