@@ -7,9 +7,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <style>
-body {font-family: "Lato", sans-serif}
+body {
+  font-family: "Lato", sans-serif;
+  background-image: url("https://user-images.githubusercontent.com/64637338/81332134-3e76c580-90ab-11ea-8933-193334dc59e6.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    }
 .mySlides {display: none}
-  
 
 </style>
 
