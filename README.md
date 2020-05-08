@@ -150,5 +150,3 @@ body {font-family: "Lato", sans-serif}
   <a href="https://twitter.com/csapofficial"><i class="fa fa-twitter w3-hover-opacity"></i>
   
   <a href="#"><p class="w3-medium">Powered by CSAP</p>
-
-
