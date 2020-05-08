@@ -9,7 +9,7 @@
 <style>
 body {
   font-family: "Lato", sans-serif;
-  background-image: url("https://user-images.githubusercontent.com/64637338/81332134-3e76c580-90ab-11ea-8933-193334dc59e6.png");
+  background-image: url("https://user-images.githubusercontent.com/64637338/81293350-dbb70700-9075-11ea-9a71-cd2750c6a733.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
     }
