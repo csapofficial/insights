@@ -15,8 +15,12 @@ body {
   background-size: 300px 300px;
   z-index:1;
     }
-.mySlides {display: none}
+.mySlides {
+    display: none;
+    z-index:-1;
 
+  }
+  
 </style>
 
 
