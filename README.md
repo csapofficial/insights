@@ -56,7 +56,7 @@ body {
 
 
   <!-- Whitepapers -->
-  <div class="#F2F5F6" id="tour">
+  <div class=#F2F5F6 id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <h2 class="w3-wide w3-center">PUBLICATIONS</h2>
       <p class="w3-opacity w3-center"><i>Read and share the link with others</i></p><br>
