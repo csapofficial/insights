@@ -12,7 +12,7 @@ body {
   background-image: url("https://user-images.githubusercontent.com/64637338/81293350-dbb70700-9075-11ea-9a71-cd2750c6a733.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 250px 100px;
+  background-size: 350px 200px;
     }
 .mySlides {display: none}
 
