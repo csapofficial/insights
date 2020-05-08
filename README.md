@@ -13,6 +13,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 300px 300px;
+  z-index:1;
     }
 .mySlides {display: none}
 
