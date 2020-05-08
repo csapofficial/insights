@@ -151,8 +151,7 @@ body {font-family: "Lato", sans-serif}
   <a href="https://facebook.com/csapofficial"><i class="fa fa-facebook-official w3-hover-opacity"></i>
   <a href="https://twitter.com/csapofficial"><i class="fa fa-twitter w3-hover-opacity"></i>
   
-  <a href="#"><p class="w3-medium">Powered by CSAP</a></p>
-</footer>
+  <a href="#"><p class="w3-medium">Powered by CSAP</p>
 
 <script>
 
@@ -160,5 +159,3 @@ body {font-family: "Lato", sans-serif}
 
 </script>
 
-</body>
-</html>
