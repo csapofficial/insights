@@ -91,12 +91,16 @@ body {
         <div class="w3-third w3-margin-bottom">
               
           </div>
+             </div>
+                </div>
+                   </div>
+                      </div>
 
 
-  <!-- ------------------------ Publications ------------------------------------- -->
+  <!-- ------------------------ Publicmessages ------------------------------------- -->
   <div class="w3-light-gray" id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
-      <h2 class="w3-wide w3-center">PUBLICATIONS</h2>
+      <h2 class="w3-wide w3-center">PUBLIC MESSAGES</h2>
       <p class="w3-opacity w3-center"><i>Read and share the link with others</i></p><br>
 
 
@@ -129,10 +133,14 @@ body {
         <div class="w3-third w3-margin-bottom">
         
         
-       
+          </div>
         
             
           </div>
+             </div>
+                </div>
+                   </div>
+                      
 
 
 
