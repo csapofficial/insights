@@ -12,7 +12,7 @@ body {font-family: "Lato", sans-serif}
 .mySlides {display: none}
 </style>
 
-}
+
 
 <body>
 
@@ -20,8 +20,8 @@ body {font-family: "Lato", sans-serif}
 <div class="w3-top">
   <div class="w3-bar w3-green w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
-    <a href="https://raw.githubusercontent.com/csapofficial/insights/master/LICENSE" class="w3-bar-item w3-button w3-padding-large">License</a>    
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
+
 
     <div class="w3-dropdown-hover w3-hide-small">
       <button class="w3-padding-large w3-button" title="More">Follow us <i class="fa fa-caret-down"></i></button>     
@@ -38,13 +38,6 @@ body {font-family: "Lato", sans-serif}
   </div>
 
 
-<!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
-<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-  <a href="#band" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">BAND</a>
-  <a href="#tour" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">TOUR</a>
-  <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">CONTACT</a>
-  <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">MERCH</a>
-</div>
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:2000px;margin-top:46px"></div>
@@ -82,7 +75,7 @@ body {font-family: "Lato", sans-serif}
         
             <!-- Whitepaper 2 - Video conferencing considerations - security guidelines--> 
           <img src="https://user-images.githubusercontent.com/64637338/81333756-b3e39580-90ad-11ea-9329-c9309c1621d8.png" alt="Video Conferencing Considerations" height="110" width="95" class="w3-hover-opacity">
-          <div class="w3-container w3-white" ><div {width: 100px; height 100px;}></div>
+          <div class="w3-container w3-white" >
             <p><b>Video Conferencing</b></p>
             <p class="w3-opacity">Whitepaper</p>
             <p>Considerations: With the emerging need of using video conferencing service, comes various challenges with...</p>
