@@ -26,7 +26,7 @@ body {font-family: "Lato", sans-serif}
     <a href="https://t.me/csapofficial" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Telegram</a>
       </div>
     </div>
-    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"></i></a>
+    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"></a>
   </div>
 
 
@@ -39,7 +39,7 @@ body {font-family: "Lato", sans-serif}
 </div>
 
 <!-- Page content -->
-<div class="w3-content" style="max-width:2000px;margin-top:46px">
+<div class="w3-content" style="max-width:2000px;margin-top:46px"></div>
 
   <!-- Welcome note -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
