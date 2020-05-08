@@ -111,9 +111,9 @@ body {
           <img src="https://user-images.githubusercontent.com/64637338/81332134-3e76c580-90ab-11ea-8933-193334dc59e6.png" alt="ORASP" height="110" width="85" class="w3-hover-opacity">
           <div class="w3-container w3-white" >
             <p><b>ORASP</b></p>
-            <p class="w3-opacity">Whitepaper</p>
+            <p class="w3-opacity">Awareness</p>
             <p>Open Reference Architecture for Security & Privacy. Security should be a journey, and not an expensive one...</p>
-            <button class="w3-button w3-green w3-margin-bottom">coming soon</button>
+            <button a href="https://1drv.ms/b/s!AkSgVhPUYVcHg9BNdCq_LEXyKJHQEg" class="w3-button w3-green w3-margin-bottom">coming soon</button>
           </div>
         </div>
         <div class="w3-third w3-margin-bottom">
