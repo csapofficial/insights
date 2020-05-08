@@ -1,4 +1,3 @@
-
 <html lang="en">
 <title>CSAP Insights</title>
 <meta charset="UTF-8">
@@ -152,8 +151,4 @@ body {font-family: "Lato", sans-serif}
   
   <a href="#"><p class="w3-medium">Powered by CSAP</p>
 
-<script>
 
-
-
-</script>
