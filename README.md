@@ -55,7 +55,7 @@ body {
 
 
 
-  <!-- Publications -->
+  <!-- ------------------------ Publications ------------------------------------- -->
   <div class="w3-light-gray" id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <h2 class="w3-wide w3-center">PUBLICATIONS</h2>
@@ -95,12 +95,7 @@ body {
         
             
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- ----------------------- Public Messages ---------------------- -->
+<!-- ----------------------- Public Messages ---------------------- -->
   
   <div class="w3-light-gray" id="publicmessages">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
@@ -112,7 +107,7 @@ body {
         <div class="w3-third w3-margin-bottom">
 
 
-							<!------------------- Public Message 1 ------------------ -->
+	<!------------------- Public Message 1 ------------------ -->
               
               
           <img src="https://1drv.ms/b/s!AkSgVhPUYVcHg9BNNKOSc36aVxgp7g?e=1jd00R" alt="ORASP" height="110" width="85" class="w3-hover-opacity">
@@ -123,7 +118,13 @@ body {
             <button class="w3-button w3-green w3-margin-bottom">coming soon</button>
           </div>
         </div>
-        <div class="w3-third w3-margin-bottom">        
+        <div class="w3-third w3-margin-bottom">       
+        </div>
+      </div>
+    </div>
+  </div>
+
+ 
 
 
 
