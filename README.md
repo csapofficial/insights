@@ -91,8 +91,15 @@ body {
         <div class="w3-third w3-margin-bottom">
         
         
+       
         
-        
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- ----------------------- Public Messages ---------------------- -->
   
   <div class="w3-light-gray" id="publicmessages">
@@ -103,25 +110,20 @@ body {
 
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
-        
-            <!-- Public Message 1 -->
-<iframe src="https://onedrive.live.com/embed?cid=075761D41356A044&resid=75761D41356A044%2159469&authkey=ADmBqJcaXnptdOQ&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>          <img src="https://user-images.githubusercontent.com/64637338/81332134-3e76c580-90ab-11ea-8933-193334dc59e6.png" alt="ORASP" height="110" width="85" class="w3-hover-opacity">
+
+
+							<!------------------- Public Message 1 ------------------ -->
+              
+              
+          <img src="https://1drv.ms/b/s!AkSgVhPUYVcHg9BNNKOSc36aVxgp7g?e=1jd00R" alt="ORASP" height="110" width="85" class="w3-hover-opacity">
           <div class="w3-container w3-white" >
             <p><b>ORASP</b></p>
-            <p class="w3-opacity">Whitepaper</p>
-            <p>Open Reference Architecture for Security & Privacy. Security should be a journey, and not an expensive one...</p>
+            <p class="w3-opacity">Work from Corona</p>
+            <p>Work from home - Post COVID-19</p>
             <button class="w3-button w3-green w3-margin-bottom">coming soon</button>
           </div>
         </div>
         <div class="w3-third w3-margin-bottom">        
-        
-            
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
 
 
 
