@@ -27,7 +27,7 @@ body {
   <div class="w3-bar w3-green w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
-
+    <a href="https://bit.ly/CSAP-reg-form" class="w3-bar-item w3-button w3-padding-large">CSAP Membership Registration</a>
 
     <div class="w3-dropdown-hover w3-hide-small">
       <button class="w3-padding-large w3-button" title="More">Follow us <i class="fa fa-caret-down"></i></button>     
