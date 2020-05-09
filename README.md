@@ -120,7 +120,7 @@ body {
             <p class="w3-opacity">Awareness</p>	                    
 		<button class="w3-button w3-black w3-margin-bottom"><a href= "https://1drv.ms/b/s!AkSgVhPUYVcHg9BNdCq_LEXyKJHQEg?e=W43ArZ">Open</button>
           </div>
-        
+        </div>
         <div class="w3-third w3-margin-bottom">
         
         
