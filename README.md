@@ -55,7 +55,7 @@ body {
 
 
 
-  <!-- ------------------------ Publications ------------------------------------- -->
+  <!-- ------------------------ PUBLICATIONS AREA START ------------------------------------- -->
   <div class="w3-light-gray" id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <h2 class="w3-wide w3-center">PUBLICATIONS</h2>
@@ -65,7 +65,13 @@ body {
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
         
+	
+	
+           <!-- ===================================================================================================== -->    	
             <!-- Whitepaper 1 - ORASP -->
+           <!-- ===================================================================================================== -->    
+	
+	
           <img src="https://user-images.githubusercontent.com/64637338/81332134-3e76c580-90ab-11ea-8933-193334dc59e6.png" alt="ORASP" height="110" width="85" class="w3-hover-opacity">
           <div class="w3-container w3-white" >
             <p><b>ORASP</b></p>
@@ -78,8 +84,10 @@ body {
         
         
         
-        
+           <!-- ===================================================================================================== -->            
             <!-- Whitepaper 2 - Video conferencing considerations - security guidelines--> 
+           <!-- ===================================================================================================== -->    
+	   
           <img src="https://user-images.githubusercontent.com/64637338/81333756-b3e39580-90ad-11ea-9329-c9309c1621d8.png" alt="Video Conferencing Considerations" height="110" width="95" class="w3-hover-opacity">
           <div class="w3-container w3-white" >
             <p><b>Video Conferencing</b></p>
@@ -96,8 +104,10 @@ body {
                    </div>
                       </div>
 
+  <!-- ------------------------ PUBLICATIONS AREA END ------------------------------------- -->
 
-  <!-- ------------------------ Publicmessages ------------------------------------- -->
+
+  <!-- ------------------------ PUBLIC MESSAGES AREA START ------------------------------------- -->
   <div class="w3-light-gray" id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <h2 class="w3-wide w3-center">PUBLIC MESSAGES</h2>
@@ -108,23 +118,46 @@ body {
         <div class="w3-third w3-margin-bottom">
  
  
- 
-            <!-- Message 2 --------------------------------------------------------- -->
-            
-            
-                    <!-- Message 2 - Thumbnail --->
+            <!-- ===================================================================================================== -->          
+            <!-- Message 1 - CSAP Advisory - Work from Home  ======================================================== -->
+           <!-- ===================================================================================================== -->          
+          
+                    <!-- Message - Thumbnail --->
           <img src="https://ovpvgq.am.files.1drv.com/y4mCH6ezAs3l7IOjs0620xY9jIFwTE7c7PJlUHHLwPfY7b7OAzRodlK9JG0VWcRc10JoARXwgV3Fu8UUVcfLdafbXNRnBLm3RuwHrboY54_CohDOpbgjI12ttThrjoAQnMRMF6qp48OTApzCFCEEMekVdNHWfPjzTPXNCTgaXpzXdv96DFKl4Svd2H-NWOd9Rua6gqwHScl1ie9t8FPvelBDw" alt="Awareness" height="110" width="85" class="w3-hover-opacity">
           <div class="w3-container w3-white" >
-            <p><b>(1) CSAP Advisory - Work from Home (31-Mar-20)</b></p>
+            <p><b>CSAP Advisory - Work from Home (31-Mar-20)</b></p>
             <p class="w3-opacity">Awareness</p>	                    
                     
-		    <!-- Message 2 - Button --->
+		    <!-- Message - Button --->
 		<button onclick="window.location.href='https://1drv.ms/b/s!AkSgVhPUYVcHg9BNdCq_LEXyKJHQEg?e=W43ArZ'" class="w3-button w3-black w3-margin-bottom">Open</button>
           </div>
         </div>
         <div class="w3-third w3-margin-bottom">
         
 
+
+           <!-- ===================================================================================================== -->          
+           <!-- Message 21 - CSAP Advisory - Work from Home  ======================================================== -->
+           <!-- ===================================================================================================== -->          
+            
+                    <!-- Message - Thumbnail --->
+          <img src="https://ovpvgq.am.files.1drv.com/y4mCH6ezAs3l7IOjs0620xY9jIFwTE7c7PJlUHHLwPfY7b7OAzRodlK9JG0VWcRc10JoARXwgV3Fu8UUVcfLdafbXNRnBLm3RuwHrboY54_CohDOpbgjI12ttThrjoAQnMRMF6qp48OTApzCFCEEMekVdNHWfPjzTPXNCTgaXpzXdv96DFKl4Svd2H-NWOd9Rua6gqwHScl1ie9t8FPvelBDw" alt="Awareness" height="110" width="85" class="w3-hover-opacity">
+          <div class="w3-container w3-white" >
+            <p><b>CSAP Advisory - Work from Home (31-Mar-20)</b></p>
+            <p class="w3-opacity">Awareness</p>	                    
+                    
+		    <!-- Message - Button --->
+		<button onclick="window.location.href='https://1drv.ms/b/s!AkSgVhPUYVcHg9BNdCq_LEXyKJHQEg?e=W43ArZ'" class="w3-button w3-black w3-margin-bottom">Open</button>
+          </div>
+        </div>
+        <div class="w3-third w3-margin-bottom">
+                    
+	    
+	    
+            
+  <!-- ------------------------ PUBLIC MESSAGES AREA END ------------------------------------- -->
+
+        
 	
 	
           
@@ -133,7 +166,7 @@ body {
              </div>
                 </div>
                    </div>
-                      </div>
+                      <br>
                       
 
 
