@@ -120,7 +120,7 @@ body {
  
 <div class="gallery">
   <a target="_blank" href="https://1drv.ms/b/s!AkSgVhPUYVcHg9BO7xBXq63n56gX0w?e=RwKW3n">
-    <img src="img_5terre.jpg" alt="Cinque Terre" width="100" height="100">
+    <img src="https://ovpvgq.am.files.1drv.com/y4mCH6ezAs3l7IOjs0620xY9jIFwTE7c7PJlUHHLwPfY7b7OAzRodlK9JG0VWcRc10JoARXwgV3Fu8UUVcfLdafbXNRnBLm3RuwHrboY54_CohDOpbgjI12ttThrjoAQnMRMF6qp48OTApzCFCEEMekVdNHWfPjzTPXNCTgaXpzXdv96DFKl4Svd2H-NWOd9Rua6gqwHScl1ie9t8FPvelBDw?width=12000&height=16500&cropmode=none" alt="Cinque Terre" width="100" height="100">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
