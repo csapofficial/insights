@@ -118,47 +118,33 @@ body {
         <div class="w3-third w3-margin-bottom">
  
  
-            <!-- ===================================================================================================== -->          
-            <!-- Message 1 - CSAP Advisory - Work from Home  ======================================================== -->
-           <!-- ===================================================================================================== -->          
-          
-                    <!-- Message - Thumbnail --->
-          <img src="https://1drv.ms/u/s!AkSgVhPUYVcHg9EGAPF5Ac17ePh_eQ?e=Z6f7Iq" alt="Awareness" height="110" width="85" class="w3-hover-opacity">
-          <div class="w3-container w3-white" >
-            <p><b>CSAP Advisory - Work from Home (31-Mar-20)</b></p>
-            <p class="w3-opacity">Awareness</p>	                    
-                    
-		    <!-- Message - Button --->
-		<button onclick="window.location.href='https://1drv.ms/b/s!AkSgVhPUYVcHg9BNdCq_LEXyKJHQEg?e=W43ArZ'" class="w3-button w3-black w3-margin-bottom">Open</button>
-          </div>
-        </div>
-        <div class="w3-third w3-margin-bottom">
-        
+<div class="gallery">
+  <a target="_blank" href="https://1drv.ms/b/s!AkSgVhPUYVcHg9BO7xBXq63n56gX0w?e=RwKW3n">
+    <img src="img_5terre.jpg" alt="Cinque Terre" width="100" height="100">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
 
+<div class="gallery">
+  <a target="_blank" href="img_forest.jpg">
+    <img src="img_forest.jpg" alt="Forest" width="100" height="100">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
 
-           <!-- ===================================================================================================== -->          
-           <!-- Message 2 - CSAP Advisory - Work from Home  ======================================================== -->
-           <!-- ===================================================================================================== -->          
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="img_lights.jpg" alt="Northern Lights" width="100" height="100">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
 
-                    <!-- Message - Thumbnail --->
-          <img src="https://1drv.ms/u/s!AkSgVhPUYVcHg9E_XsxccymGe_qJeA?e=2ZgnJT" alt="Awareness" height="110" width="85" class="w3-hover-opacity">
-            <p><b>CSAP Advisory - Work from Home (31-Mar-20)</b></p>
-	    
-                    <!-- Message - Thumbnail --->
-          <img src="https://1drv.ms/u/s!AkSgVhPUYVcHg9E_XsxccymGe_qJeA?e=2ZgnJT" alt="Awareness" height="110" width="85" class="w3-hover-opacity">
-          <div class="w3-container w3-white" >
-            <p><b>CSAP Advisory - Work from Home (31-Mar-20)</b></p>
-            <p class="w3-opacity">Awareness</p>	                    
-                    
-		    <!-- Message - Button --->
-		<button onclick="window.location.href='https://1drv.ms/b/s!AkSgVhPUYVcHg9BO7xBXq63n56gX0w?e=RwKW3n'" class="w3-button w3-black w3-margin-bottom">Open</button>
-          </div>
-        </div>
-        <div class="w3-third w3-margin-bottom">
-        
-
-
-
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+    <img src="img_mountains.jpg" alt="Mountains" width="100" height="100">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
 	    
 	    
             
