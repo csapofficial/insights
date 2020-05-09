@@ -123,15 +123,19 @@ body {
         </div>
         <div class="w3-third w3-margin-bottom">
         
-        
-        
- 
-                
+	
+	                    <!-- Message 2 - Thumbnail --->
 
-                
-        
- 
-        
+          <img src="https://ovpvgq.am.files.1drv.com/y4mCH6ezAs3l7IOjs0620xY9jIFwTE7c7PJlUHHLwPfY7b7OAzRodlK9JG0VWcRc10JoARXwgV3Fu8UUVcfLdafbXNRnBLm3RuwHrboY54_CohDOpbgjI12ttThrjoAQnMRMF6qp48OTApzCFCEEMekVdNHWfPjzTPXNCTgaXpzXdv96DFKl4Svd2H-NWOd9Rua6gqwHScl1ie9t8FPvelBDw" alt="Awareness" height="110" width="85" class="w3-hover-opacity">
+          <div class="w3-container w3-white" >
+            <p><b>(1) CSAP Advisory - Work from Home (31-Mar-20)</b></p>
+            <p class="w3-opacity">Awareness</p>	                    
+		<button class="w3-button w3-black w3-margin-bottom"><a href="https://1drv.ms/b/s!AkSgVhPUYVcHg9BNdCq_LEXyKJHQEg?e=W43ArZ">Open</button>
+          </div>
+        </div>
+        <div class="w3-third w3-margin-bottom">
+	
+	
           
             
           </div>
