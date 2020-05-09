@@ -139,7 +139,6 @@ body {
           <div class="w3-container w3-white" >
             <p><b>(1) CSAP Advisory - Work from Home (31-Mar-20)</b></p>
             <p class="w3-opacity">Awareness</p>
-            <p></p>
 
                      <!-- Message 1 - Button --->
                     
